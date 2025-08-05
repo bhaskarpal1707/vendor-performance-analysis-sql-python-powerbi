@@ -7,6 +7,7 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
+- <a href="#dataset">Pipeline</a>
 - <a href="#business-problem">Business Problem</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
@@ -134,7 +135,7 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/e2976462-ed76-4bc5-9c86-ee4506a203ef" />)
+![Vendor Performance Dashboard](https://github.com/bhaskarpal1707/vendor-performance-analysis-sql-python-powerbi/blob/master/images/Pipeline.png?raw=true)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
