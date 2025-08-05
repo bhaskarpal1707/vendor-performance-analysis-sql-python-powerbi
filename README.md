@@ -174,3 +174,7 @@ python scripts/get_vendor_summary.py
 Aspiring Data Analyst  
 📧 Email: bhaskarpal.official@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/bhaskar-pal-2k02/)  
+
+---
+
+If you found this project helpful or interesting, a ⭐️ would mean a lot!
