@@ -135,7 +135,7 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](https://github.com/bhaskarpal1707/vendor-performance-analysis-sql-python-powerbi/blob/master/images/Pipeline.png?raw=true)
+![Vendor Performance Dashboard](https://github.com/bhaskarpal1707/vendor-performance-analysis-sql-python-powerbi/blob/master/dashboard/Dashboard%20Image.png?raw=true)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
