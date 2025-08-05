@@ -25,6 +25,12 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 This project evaluates vendor performance and retail inventory dynamics to drive strategic insights for purchasing, pricing, and inventory optimization. A complete data pipeline was built using SQL for ETL, Python for analysis and hypothesis testing, and Power BI for visualization.
 
 ---
+<h2><a class="anchor" id="business-problem"></a>Pipeline</h2>
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7fae4e21-9d20-4cbf-8401-5a289e8419d8" />
+
+
+---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
 Effective inventory and sales management are critical in the retail sector. This project aims to:
@@ -61,15 +67,23 @@ vendor-performance-analysis/
 ├── Vendor Performance Report.pdf
 │
 ├── notebooks/                  # Jupyter notebooks
-│   ├── exploratory_data_analysis.ipynb
+│   ├── EDA.ipynb
 │   ├── vendor_performance_analysis.ipynb
+│   ├── db creation & scripting.ipynb
 │
 ├── scripts/                    # Python scripts for ingestion and processing
 │   ├── ingestion_db.py
 │   └── get_vendor_summary.py
 │
 ├── dashboard/                  # Power BI dashboard file
+│   └── dashboard data
 │   └── vendor_performance_dashboard.pbix
+│   └── Dashboard Image.png
+├── dataset/                  # Project Dataset
+│   └── data.txt
+├── images/                  # Project Pipeline images
+│   └── Pipeline.png
+
 ```
 
 ---
@@ -120,7 +134,7 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](images/dashboard.png)
+![Vendor Performance Dashboard](<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/e2976462-ed76-4bc5-9c86-ee4506a203ef" />)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
