@@ -7,7 +7,7 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
-- <a href="#dataset">Pipeline</a>
+- <a href="#pipeline">Pipeline</a>
 - <a href="#business-problem">Business Problem</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
@@ -26,7 +26,7 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 This project evaluates vendor performance and retail inventory dynamics to drive strategic insights for purchasing, pricing, and inventory optimization. A complete data pipeline was built using SQL for ETL, Python for analysis and hypothesis testing, and Power BI for visualization.
 
 ---
-<h2><a class="anchor" id="Pipeline"></a>Pipeline</h2>
+<h2><a class="anchor" id="pipeline"></a>Pipeline</h2>
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7fae4e21-9d20-4cbf-8401-5a289e8419d8" />
 
